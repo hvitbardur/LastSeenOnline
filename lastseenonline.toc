@@ -1,0 +1,8 @@
+## Interface: 90001
+## Title: Last Seen Online
+## Notes: Tool to make time stamps when community members are seen online
+## Author: Cleptor, Rexxar-EU
+## Version: 2021-02-28.1
+
+lastseenonline.lua
+##SavedVariables: LastSeenOnlineList
